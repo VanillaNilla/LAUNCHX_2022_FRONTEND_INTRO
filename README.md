@@ -1,4 +1,4 @@
-# LAUNCHX_2022_FRONTENDINTRO
+# LAUNCHX_2022_FRONTEND_INTRO
 * Here you're gonna find my UI/UX interface and analysis to create Abogabot (web service)
 
 ## Introducción a la programación FrontEnd
